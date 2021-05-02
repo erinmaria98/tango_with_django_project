@@ -28,7 +28,7 @@ SECRET_KEY = ')vs&vv8+)lb6fs+6xjb@a3j!0v3us))opeuxou602%d_754cp4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['erinmariah98.pythonanywhere.com]
 
 
 # Application definition
@@ -131,3 +131,4 @@ MEDIA_URL = '/media/'
 LOGIN_URL = 'rango:login'
 
 SESSION_EXPIRE_AT_BROWSER_CLOSE = True
+
